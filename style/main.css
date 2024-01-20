@@ -239,6 +239,10 @@ h1 {
     text-align: justify;
 }
 
+.contents > .spotifynp {
+    text-align: center;
+}
+
 .contents > h2:before {
     content: '';
     position: absolute;
