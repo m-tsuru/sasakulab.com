@@ -11,7 +11,7 @@ h1 {
     text-align: center;
 }
 
-.head {
+header {
     background-image: url(/assets/myhome.webp);
     position: relative;
     overflow: hidden;
@@ -34,14 +34,14 @@ h1 {
 
 }
 
-.head .look_down {
+header .look_down {
     position: absolute;
     left: 50%;
     bottom: 10%;
     transform: translate(-50%, -50%);
 }
 
-.head .concept span {
+header .concept span {
     color: whitesmoke;
     font-size: 3rem;
     font-weight: 700;
@@ -52,7 +52,7 @@ h1 {
     padding-left: 0.25em;
 }
 
-.head .concept span .site {
+header .concept span .site {
     color: whitesmoke;
 
     font-size: 3rem;
@@ -64,7 +64,7 @@ h1 {
     padding-left: 0.25em;
 }
 
-.head .concept .happy-internet {
+header .concept .happy-internet {
     color: whitesmoke;
     border: solid 1.5px whitesmoke;
 
