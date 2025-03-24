@@ -231,11 +231,19 @@ dd {
 }
 
 .index .contents {
-  margin: 8%;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 1024px;
+}
+
+.center {
+  text-align: center;
 }
 
 .contents {
-  margin: 5%;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 768px;
 }
 
 .contents > h2 {
