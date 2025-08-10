@@ -32,13 +32,13 @@
     {
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
       "name": "MKNETEL",
-      "prefix": "5100",
+      "prefix": "510",
       "mantela": "https://unstable.kusaremkn.com/mantela.json"
     },
     {
       "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
       "name": "yude",
-      "prefix": "3900",
+      "prefix": "390",
       "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
     }
   ]
