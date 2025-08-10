@@ -2,44 +2,33 @@
   "$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
   "version": "0.0.0",
   "aboutMe": {
-    "identifier": "A50F0FB4-C5C9-4D1E-BDB5-9D73FA2F7EB5",
+    "identifier": "497F92E7-6B9F-4D33-91B9-B34E94402913",
     "name": "sasakulab",
     "preferredPrefix": [
       "5300",
-      "0530"
+      "0530",
+      "530"
     ],
     "unavailable": true
   },
   "extensions": [
     {
-      "extension": "1000",
-      "name": "main",
+      "extension": "210",
+      "name": "SHARP JD-V36",
+      "type": "phone"
+    },
+    {
+      "extension": "220",
+      "name": "mini (iPhone 13 mini)",
+      "type": "phone"
+    },
+    {
+      "extension": "999",
+      "name": "Main",
       "type": "main"
-    },
-    {
-      "extension": "1001",
-      "name": "mini",
-      "type": "phone"
-    },
-    {
-      "extension": "1002",
-      "name": "sharp",
-      "type": "phone"
     }
   ],
   "providers": [
-    {
-      "identifier": "5bbdd9ae-4d41-420c-80df-eba486495b12",
-      "mantela": "https://108jiminy.jp/phone/jiminypublicmantela.json",
-      "name": "Jiminy Public",
-      "prefix": "1080"
-    },
-    {
-      "identifier": "153048c5-db33-4e00-ad49-694762555d5c",
-      "name": "Jiminy Local",
-      "prefix": "1190",
-      "mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json"
-    },
     {
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
       "name": "MKNETEL",
